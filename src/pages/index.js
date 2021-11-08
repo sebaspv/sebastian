@@ -1,12 +1,15 @@
-import * as React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./Home";
+import React from "react";
 
-const IndexPage = () => {
+const index = () => {
   return (
-    <div>
-      <h1 class="font-opensans text-3xl">This h1 has Open Sans</h1>
-      <p class="font-montserrat">The body has Montserrat</p>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   );
 };
 
-export default IndexPage;
+export default index;
