@@ -1,5 +1,6 @@
 import React from "react";
 import Me from "./components/Me";
+import Who from "./components/Who"
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       </div>
 
       <div class="w-full overflow-hidden">
+        <Who />
       </div>
 
       <div class="w-full overflow-hidden">
