@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       fontFamily:{
         opensans: ["Open Sans"],
-        montserrat: ["Montserrat"]
+        montserrat: ["Montserrat"],
+        sans: ["Lusitana"]
       }
     },
   },

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmyportfolio=self.webpackChunkmyportfolio||[]).push([[79],{624:function(e,t,n){n.r(t);var s=n(7294);t.default=function(){return s.createElement("div",null,s.createElement("h1",{class:"font-opensans text-3xl"},"This h1 has Open Sans"),s.createElement("p",{class:"font-montserrat"},"The body has Montserrat"))}}}]);
+//# sourceMappingURL=component---src-pages-home-js-db44fe5732dcbc7a6772.js.map

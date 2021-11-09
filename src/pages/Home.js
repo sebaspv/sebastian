@@ -1,10 +1,23 @@
 import React from "react";
+import Me from "./components/Me";
 
 const Home = () => {
   return (
-    <div>
-      <h1 class="font-opensans text-3xl">This h1 has Open Sans</h1>
-      <p class="font-montserrat">The body has Montserrat</p>
+    <div class="flex flex-wrap overflow-hidden">
+
+      <div class="w-full overflow-hidden">
+        <Me />
+      </div>
+
+      <div class="w-full overflow-hidden">
+      </div>
+
+      <div class="w-full overflow-hidden">
+      </div>
+
+      <div class="w-full overflow-hidden">
+      </div>
+
     </div>
   );
 }
