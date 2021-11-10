@@ -10,6 +10,7 @@ function Info() {
                         className="inline-block mb-5"
                     >
                         <div className="flex items-center justify-center w-12 h-12 rounded-full bg-indigo-50">
+                        <svg className="w-10 h-10" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20"><g fill="none"><path d="M10 2a4 4 0 1 0 0 8a4 4 0 0 0 0-8z" fill="currentColor" /><path d="M5.009 11A2.001 2.001 0 0 0 3 13c0 1.691.833 2.966 2.135 3.797C6.417 17.614 8.145 18 10 18c1.855 0 3.583-.386 4.865-1.203C16.167 15.967 17 14.69 17 13a2 2 0 0 0-2-2H5.009z" fill="currentColor" /></g></svg>
                         </div>
                     </a>
                     <h5 className="mb-4 text-4xl font-extrabold leading-none">
