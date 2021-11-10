@@ -1,25 +1,29 @@
 import React from "react";
 import Me from "./components/Me";
 import Who from "./components/Who"
+import Info from "./components/Info";
 
 const Home = () => {
   return (
-    <div class="flex flex-wrap overflow-hidden">
+    <div className="flex flex-wrap overflow-hidden">
 
-      <div class="w-full overflow-hidden">
+      <div className="w-full overflow-hidden">
         <Me />
       </div>
 
-      <div class="w-full overflow-hidden">
+      <div className="w-full overflow-hidden">
+        <Info />
+      </div>
+
+      <div className="w-full overflow-hidden">
         <Who />
       </div>
 
-      <div class="w-full overflow-hidden">
+      <div className="w-full overflow-hidden">
       </div>
-
-      <div class="w-full overflow-hidden">
+      
+      <div className="w-full overflow-hidden">
       </div>
-
     </div>
   );
 }
