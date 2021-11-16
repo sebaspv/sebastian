@@ -11,6 +11,7 @@ module.exports = {
       options: {
         name: "pages",
         path: "./src/pages/",
+        icon: './src/images/icon.png'
       },
       __key: "pages",
     },
