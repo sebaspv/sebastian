@@ -11,9 +11,9 @@ function Who() {
                 </div>
                 <div className="lg:w-1/2">
                     <p className="text-base text-gray-700 md:text-lg">
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                        accusantium doloremque rem aperiam, eaque ipsa quae. Sed ut unde
-                        omnis iste natus.
+                        Machine Learning was one of the first things I learned.
+                        I fell in love with it, but, obviously, a lot of things look prettier when they have an interface.
+                        That's why I also have experience with backend and frontend development.
                     </p>
                 </div>
             </div>
