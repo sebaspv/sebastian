@@ -28,7 +28,8 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "^6.0.1",
     "typeface-lusitana": "^1.1.13",
-    "typeface-open-sans": "^1.1.13"
+    "typeface-open-sans": "^1.1.13",
+    "typeface-poppins": "^1.1.13"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
