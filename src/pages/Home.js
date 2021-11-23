@@ -3,6 +3,7 @@ import Me from "./components/Me";
 import Who from "./components/Who"
 import Info from "./components/Info";
 import Footer from "./components/Footer";
+import Cta from "./components/Cta";
 const Home = () => {
   return (
     <div className="flex flex-wrap overflow-hidden">
@@ -20,6 +21,7 @@ const Home = () => {
       </div>
 
       <div className="w-full overflow-hidden">
+        <Cta />
       </div>
       
       <div className="w-full overflow-hidden">

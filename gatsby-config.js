@@ -12,6 +12,11 @@ module.exports = {
         name: "pages",
         path: "./src/pages/",
       },
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown-pages`,
+        path: `${__dirname}/src/markdown-pages`,
+      },
       __key: "pages",
     },
     {
@@ -20,6 +25,7 @@ module.exports = {
         icon: './src/images/gatsby-icon.png'
       }
     },
-    "gatsby-plugin-react-helmet"
+    "gatsby-plugin-react-helmet",
+    "gatsby-transformer-remark"
   ],
 };
