@@ -2,7 +2,7 @@ import React from "react";
 import Me from "./components/Me";
 import Who from "./components/Who"
 import Info from "./components/Info";
-
+import Footer from "./components/Footer";
 const Home = () => {
   return (
     <div className="flex flex-wrap overflow-hidden">
@@ -23,6 +23,7 @@ const Home = () => {
       </div>
       
       <div className="w-full overflow-hidden">
+        <Footer />
       </div>
     </div>
   );
