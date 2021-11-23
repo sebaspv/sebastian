@@ -42,7 +42,7 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Backend Development</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        I've always been obsessed with Backend micro-frameworks and Databases. I have knowledge in frameworks with Node and Python, and their interaction with SQL and NoSQL databases.
+                        I've always been obsessed with Backend frameworks and Databases. I have knowledge in frameworks with Node and Python, and their interaction with SQL and NoSQL databases.
                     </p>
                     <a
                         href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=python&sort="
@@ -58,7 +58,7 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">API Development</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        Because of my Backend knowledge, API development is also a key programming skill of mine. I love creating APIs for model serving using Python, with various frameworks, such as Flask, FastAPI and TF Model Serving.
+                        Because of my Backend knowledge, API development is also a key programming skill of mine. I love creating APIs for model serving with various languages, such as Python or JavaScript.
                     </p>
                     <a
                         href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=python&sort="
@@ -77,11 +77,11 @@ function Who() {
                         Frontend is the big hit in modern web development. That's why I have knowledge in various Frontend frameworks, like React, Gatsby (The backbone of this website!), Next, and ClojureScript.
                     </p>
                     <a
-                        href="/"
+                        href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=javascript&sort="
                         aria-label=""
                         className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
-                        Learn more
+                        Frontend Projects
                     </a>
                 </div>
             </div>
