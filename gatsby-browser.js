@@ -2,4 +2,10 @@ import 'typeface-open-sans'
 import '@fontsource/montserrat'
 import 'typeface-lusitana'
 import 'typeface-poppins'
+import "@fontsource/playfair-display"
+import "@fontsource/libre-baskerville"
+import "@fontsource/lato"
+import "@fontsource/abril-fatface"
+import "@fontsource/merriweather"
+import "@fontsource/merriweather-sans"
 import './src/styles/global.css';

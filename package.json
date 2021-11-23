@@ -15,7 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/abril-fatface": "^4.5.0",
+    "@fontsource/lato": "^4.5.0",
+    "@fontsource/libre-baskerville": "^4.5.0",
+    "@fontsource/merriweather": "^4.5.1",
+    "@fontsource/merriweather-sans": "^4.5.0",
     "@fontsource/montserrat": "^4.5.1",
+    "@fontsource/playfair-display": "^4.5.1",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "gatsby": "^4.1.0",

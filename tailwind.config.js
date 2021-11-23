@@ -6,7 +6,8 @@ module.exports = {
       fontFamily:{
         opensans: ["Open Sans"],
         montserrat: ["Montserrat"],
-        sans: ["Poppins"]
+        sans: ["Merriweather"],
+        poppins: ["Merriweather Sans"]
       }
     },
   },
