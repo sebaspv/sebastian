@@ -25,16 +25,15 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Machine Learning</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        A flower in my garden, a mystery in my panties. Heart attack never
-                        stopped old Big Bear. I didn't even know we were calling him Big
-                        Bear.
+                        Machine Learning is the core of my programming skills. I have knowledge in areas
+                        such as Computer Vision, Natural Language Processing, and Data Science.
                     </p>
                     <a
-                        href="/"
+                        href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=jupyter+notebook&sort="
                         aria-label=""
                         className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
-                        Learn more
+                        Machine Learning Projects
                     </a>
                 </div>
                 <div className="max-w-md">
@@ -43,15 +42,14 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Backend Development</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        Rough pomfret lemon shark plownose chimaera southern sandfish
-                        kokanee northern sea robin Antarctic cod.
+                        I've always been obsessed with Backend micro-frameworks and Databases. I have knowledge in frameworks with Node and Python, and their interaction with SQL and NoSQL databases.
                     </p>
                     <a
-                        href="/"
+                        href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=python&sort="
                         aria-label=""
                         className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
-                        Learn more
+                        Backend Projects
                     </a>
                 </div>
                 <div className="max-w-md">
@@ -60,15 +58,14 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">API Development</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        A slice of heaven. O for awesome, this chocka full cuzzie is as
-                        rip-off as a cracker.
+                        Because of my Backend knowledge, API development is also a key programming skill of mine. I love creating APIs for model serving using Python, with various frameworks, such as Flask, FastAPI and TF Model Serving.
                     </p>
                     <a
-                        href="/"
+                        href="https://github.com/sebaspv?tab=repositories&q=&type=public&language=python&sort="
                         aria-label=""
                         className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
-                        Learn more
+                        API Projects
                     </a>
                 </div>
                 <div className="max-w-md">
@@ -77,8 +74,7 @@ function Who() {
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Frontend Development</h6>
                     <p className="mb-3 text-sm text-gray-900">
-                        Disrupt inspire and think tank, social entrepreneur but preliminary
-                        thinking think tank compelling.
+                        Frontend is the big hit in modern web development. That's why I have knowledge in various Frontend frameworks, like React, Gatsby (The backbone of this website!), Next, and ClojureScript.
                     </p>
                     <a
                         href="/"

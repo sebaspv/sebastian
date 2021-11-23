@@ -52,7 +52,7 @@ function Info() {
                 <div>
                     <img
                         className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
-                        src="https://res.cloudinary.com/dj4sgprga/image/upload/v1636565823/donruabastian_jn734z.jpg"
+                        src="https://res.cloudinary.com/dj4sgprga/image/upload/c_crop,w_600/v1636565823/donruabastian_jn734z.jpg"
                         alt=""
                     />
                 </div>
