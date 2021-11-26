@@ -18,14 +18,14 @@ const Projects = () => {
                         alt=""
                     />
                     <div className="p-5 border border-t-0">
-                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase font-poppins">
                                 Hack the Valley V<br /><span className="font-light">2nd Place Overall</span>
                         </p>
                         <a
                             href="https://devpost.com/software/medicaid-3f2er5"
                             aria-label="Category"
                             title="My MedicAid"
-                            className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+                            className="font-poppins inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                         >
                             My MedicAid
                         </a>
@@ -35,7 +35,7 @@ const Projects = () => {
                         <a
                             href="https://devpost.com/software/medicaid-3f2er5"
                             aria-label=""
-                            className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                            className="font-poppins inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                         >
                             Learn more
                         </a>
@@ -48,14 +48,14 @@ const Projects = () => {
                         alt=""
                     />
                     <div className="p-5 border border-t-0">
-                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase font-poppins">
                                 Data Day Grind 2<br /><span className="font-light">2nd Place Overall</span>
                         </p>
                         <a
                             href="https://devpost.com/software/collegeloans"
                             aria-label="Category"
                             title="CollegeLoans"
-                            className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+                            className="font-poppins inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                         >
                             CollegeLoans
                         </a>
@@ -65,7 +65,7 @@ const Projects = () => {
                         <a
                             href="https://devpost.com/software/collegeloans"
                             aria-label=""
-                            className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                            className="font-poppins inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                         >
                             Learn more
                         </a>
@@ -78,14 +78,14 @@ const Projects = () => {
                         alt=""
                     />
                     <div className="p-5 border border-t-0">
-                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+                        <p className="mb-3 text-xs font-semibold tracking-wide uppercase font-poppins">
                                 Hack Around the World<br /><span className="font-light">3rd Place Overall</span>
                         </p>
                         <a
                             href="https://devpost.com/software/easytravel-iscyl0"
                             aria-label="Category"
                             title="CollegeLoans"
-                            className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+                            className="font-poppins inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                         >
                             EasyTravel
                         </a>
@@ -95,7 +95,7 @@ const Projects = () => {
                         <a
                             href="https://devpost.com/software/easytravel-iscyl0"
                             aria-label=""
-                            className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+                            className="font-poppins inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                         >
                             Learn more
                         </a>
