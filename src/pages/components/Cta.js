@@ -14,9 +14,11 @@ function CTA() {
                 </h2>
                 <div class="lg:mt-0 lg:flex-shrink-0">
                     <div class="mt-5 inline-flex rounded-md shadow">
+                    <a href="https://www.linkedin.com/in/sebaspv">
                         <button type="button" class="py-4 px-6  bg-gradient-to-br from-purple-800 to-blue-200 focus:ring-indigo-500 focus:ring-offset-indigo-200 text-white w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg ">
-                            <a href="https://www.linkedin.com/in/sebaspv">Connect with me!</a>
+                            Connect with me!
                         </button>
+                        </a>
                     </div>
                 </div>
             </div>
