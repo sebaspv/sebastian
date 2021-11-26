@@ -3,7 +3,7 @@ import React from 'react'
 function CTA() {
     return (
         <div class="bg-white dark:bg-gray-800 ">
-            <div class="text-center w-full mx-auto py-1 px-4 sm:px-6 lg:pb-3 lg:px-8 z-20 lg:pt-12">
+            <div class="text-center w-full mx-auto py-1 px-4 sm:px-6 lg:pb-3 lg:px-8 z-20 lg:pt-6">
                 <h2 class="text-3xl font-extrabold text-black dark:text-white sm:text-4xl font-poppins">
                     <span class="block">
                         Do you like what you see?
